@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-workshops"
+  site-url: "https://pnadelofficial.github.io/nbdev-workshops"
+  description: "testing nbdev for asynchonous workshops"
+  repo-branch: main
+  repo-url: "https://github.com/pnadelofficial/nbdev-workshops"
